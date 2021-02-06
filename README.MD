@@ -6,6 +6,6 @@ This is a simple readme file
 
 Something random to be reverted xxabcd
 
-some additional text
+this is a conflict fext
 
 some updates on a branch
